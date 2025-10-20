@@ -9,7 +9,6 @@
 
 - 🤝 I’m looking for help with **Blockchain based Charity NFT**
 
-- 💬 Ask me about **react node**
 
 - 📫 How to reach me **navaneethindarapu@gmail.com**
 
